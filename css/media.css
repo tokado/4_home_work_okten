@@ -21,6 +21,9 @@
         padding-bottom: 60px;
 
     }
+    .nav__block {
+        display: block;
+    }
     .header__main_block-small_long {
         width: 70px;
 
